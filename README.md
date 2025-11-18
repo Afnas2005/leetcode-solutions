@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Afnas2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +38,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Afnas2005/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Array
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
