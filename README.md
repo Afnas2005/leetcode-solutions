@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Afnas2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Two Pointers
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
 | ------- |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
