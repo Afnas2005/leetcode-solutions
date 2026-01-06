@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Afnas2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Afnas2005/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Afnas2005/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Afnas2005/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Afnas2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/Afnas2005/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Afnas2005/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Afnas2005/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Afnas2005/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
