@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Afnas2005/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Afnas2005/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Afnas2005/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -108,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Afnas2005/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Afnas2005/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
