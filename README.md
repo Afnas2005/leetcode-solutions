@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afnas2005/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Afnas2005/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Afnas2005/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -47,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afnas2005/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Afnas2005/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Afnas2005/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Afnas2005/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Afnas2005/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Afnas2005/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
