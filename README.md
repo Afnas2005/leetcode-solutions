@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/Afnas2005/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Afnas2005/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
