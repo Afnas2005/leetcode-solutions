@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Afnas2005/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Afnas2005/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Afnas2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/Afnas2005/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Afnas2005/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Afnas2005/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Afnas2005/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/Afnas2005/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Afnas2005/leetcode-solutions/tree/master/0461-hamming-distance) |
 ## Array
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Afnas2005/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Afnas2005/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Afnas2005/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
