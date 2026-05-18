@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Afnas2005/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0575-distribute-candies](https://github.com/Afnas2005/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Afnas2005/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Afnas2005/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/Afnas2005/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Afnas2005/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
