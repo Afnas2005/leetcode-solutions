@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Afnas2005/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Afnas2005/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Afnas2005/leetcode-solutions/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Afnas2005/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Afnas2005/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Afnas2005/leetcode-solutions/tree/master/0575-distribute-candies) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Afnas2005/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Afnas2005/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
