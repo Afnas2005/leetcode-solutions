@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Afnas2005/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Afnas2005/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0682-baseball-game](https://github.com/Afnas2005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Afnas2005/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Afnas2005/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Afnas2005/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/Afnas2005/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Afnas2005/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Afnas2005/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Afnas2005/leetcode-solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Afnas2005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Afnas2005/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search Tree
 |  |
