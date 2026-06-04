@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Afnas2005/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/Afnas2005/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Afnas2005/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/Afnas2005/leetcode-solutions/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Afnas2005/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Afnas2005/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/Afnas2005/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Afnas2005/leetcode-solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
