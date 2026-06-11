@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Afnas2005/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/Afnas2005/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/Afnas2005/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Afnas2005/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Afnas2005/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/Afnas2005/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Afnas2005/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Afnas2005/leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Afnas2005/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Afnas2005/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0804-unique-morse-code-words](https://github.com/Afnas2005/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/Afnas2005/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1002-find-common-characters](https://github.com/Afnas2005/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Afnas2005/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Afnas2005/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Afnas2005/leetcode-solutions/tree/master/0169-majority-element) |
+| [0819-most-common-word](https://github.com/Afnas2005/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afnas2005/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
